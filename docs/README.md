@@ -113,5 +113,5 @@
 - 641deb97e2a7a4f21ddaf7f6b4600ff1fc7c12f9: added rectangle.py
 - 4bc42432dad9735d0445f07f6ad6fbcbb259539f: added triangle.py
 - 4fcd6b8cacbb1ac41b0e1dbf231f30852990c496: fixed mistake in triangle.py
-- -381cf5f6e072d0d85283d4f1385986a047272006: added commentaries for rectangle.py, circle.py, triangle.py, square.py
+- 381cf5f6e072d0d85283d4f1385986a047272006: added commentaries for rectangle.py, circle.py, triangle.py, square.py
   
