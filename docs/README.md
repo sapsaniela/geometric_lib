@@ -62,7 +62,7 @@
 - return 2 * (1 + 2)
 - output(6)
 
-# rectangly.py
+# square.py
 ## Function area(a)
 ### Function parameters:
 - a - square side
