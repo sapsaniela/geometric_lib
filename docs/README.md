@@ -108,7 +108,9 @@
 - area(1, 2, 3)
 - return 1 + 2 + 3
 - output(6)
-
+# Document history
+## Tests
+- Added tests for rectangle.py, triangle.py, square.py, circle.py
 # Commit log
 - 641deb97e2a7a4f21ddaf7f6b4600ff1fc7c12f9: added rectangle.py
 - 4bc42432dad9735d0445f07f6ad6fbcbb259539f: added triangle.py
