@@ -24,4 +24,4 @@ name: Set up Python 3.9
   with:
     python-version: "3.9"
 name: Test with junittests
-run: python -m unittest circle.py
+run: python -m unittest circle_test.py
