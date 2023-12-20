@@ -13,7 +13,6 @@ class TriangleTestCase(unittest.TestCase):
     def test_area_big_random_num(self):
         res = area(20000, 30000000)
         self.assertEqual(res, 300000000000)
-//
     def test_perimeter_zero(self):
         res = perimeter(0, 0, 0)
         self.assertEqual(res, 0)
